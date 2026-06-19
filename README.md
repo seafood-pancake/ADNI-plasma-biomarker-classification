@@ -425,25 +425,3 @@ If committing derived output CSVs, use more specific ignore rules so raw data re
 | `collinearity_vif_table.csv` | VIF-style collinearity diagnostics |
 | `interaction_comparison_table.csv` | Additive vs interaction model comparison |
 
-### Suggested GitHub structure
-
-For a clean portfolio repository:
-
-```text
-adni-plasma-amyloid-pet-classification/
-├── README.md
-├── ADNI_plasma_biomarker.R
-├── .gitignore
-├── LICENSE
-├── model_comparison_roc.png
-├── ptau217_boxplot.png
-├── biomarker_scatter.png
-├── auc_table.csv
-├── threshold_sensitivity_table.csv
-├── temporal_window_sensitivity_table.csv
-├── biomarker_correlation_table.csv
-├── collinearity_vif_table.csv
-└── interaction_comparison_table.csv
-```
-
-For a cleaner long-term archive, the generated figures and output tables can be moved into `figures/` and `outputs/`, but the current script writes them to the working directory by default.
