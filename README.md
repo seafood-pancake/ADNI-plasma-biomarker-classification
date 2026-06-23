@@ -12,7 +12,7 @@ The main methodological focus is on issues that are easy to get wrong in clinica
 - temporal mismatch between plasma draw and PET scan dates;
 - collinearity and interaction between biologically related biomarkers.
 
-**Headline result:** in participant-grouped 5-fold cross-validation, the combined plasma p-tau217 + Aβ42/40 logistic-regression model achieved a pooled out-of-fold CV-AUC of approximately **0.92**.
+**Result:** in participant-grouped 5-fold cross-validation, the combined plasma p-tau217 + Aβ42/40 logistic-regression model achieved a pooled out-of-fold CV-AUC of approximately **0.92**.
 
 ![Model comparison ROC](model_comparison_roc.png)
 
