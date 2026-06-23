@@ -26,8 +26,6 @@ This project uses ADNI data to reproduce a clinically relevant screening task:
 
 > Can plasma p-tau217 and Aβ42/40 classify amyloid-PET positivity, and does Aβ42/40 add useful discrimination once p-tau217 is already included?
 
-The analysis is intentionally confirmatory. The emphasis is on rigorous data handling, transparent validation, and honest interpretation of incremental model improvement.
-
 ---
 
 ## Data
