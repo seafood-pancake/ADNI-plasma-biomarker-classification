@@ -3,8 +3,7 @@
 ## Intro
 
 This repository contains a reproducible R analysis that classifies amyloid-PET status from two plasma biomarkers in the ADNI cohort: **plasma p-tau217** and **Aβ42/40 ratio**.
-
-The project is written as a compact clinical-neuroscience portfolio project: the goal is not to claim a new biomarker discovery, but to show a clean, leakage-aware, reproducible analysis of neurodegeneration biomarker data. The main methodological focus is on issues that are easy to get wrong in clinical datasets:
+The main methodological focus is on issues that are easy to get wrong in clinical datasets:
 
 - repeated visits from the same participant;
 - within-subject train/test leakage;
