@@ -48,8 +48,6 @@ UCBERKELEY_AMY_6MM_31Mar2026(2).csv
 DXSUM_31Mar2026(2).csv
 ```
 
-Raw ADNI data are **not redistributed** in this repository. Users must apply for ADNI/LONI access and download the source CSV files directly under the ADNI Data Use Agreement.
-
 ### Analytic dataset
 
 After cleaning, merging, and temporal filtering, the primary analytic dataset contains:
